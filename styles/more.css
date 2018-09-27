@@ -98,3 +98,19 @@
 .more_links .more_option .more_options_title{
   font-size:12px;
 }
+.header_more .header_bottom{
+  display:inline-block;
+}
+.header_more .header_bottom .header_column{
+  float:left;
+}
+.header_more .header_bottom .header_text_more{
+  position:absolute;
+  left:46%;
+  top:33px;
+}
+.header_more .header_bottom .header_text_i{
+  position:absolute;
+  right:-50px;
+  top:33px;
+}

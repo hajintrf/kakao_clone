@@ -33,3 +33,14 @@
   color:#b4b4b4;
   font-size:14px;
 }
+.header_find .header_bottom{
+  display:inline-block;
+}
+.header_find .header_bottom .header_column{
+  float:left;
+}
+.header_column .header_text_find{
+  position:absolute;
+  left:34%;
+  top:33px;
+}

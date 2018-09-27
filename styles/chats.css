@@ -57,3 +57,8 @@
   color:#fff;
   background:#523737;
 }
+.chats_header .header_bottom .header_text_chats{
+  position:absolute;
+  left:35%;
+
+}
